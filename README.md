@@ -1,2 +1,2 @@
 # stepik_automation
-Тут задачи с [курса по автоматизации](httpss://stepik.org/course/575/)
+Тут задачи с [курса по автоматизации](https://stepik.org/course/575/)
