@@ -5,7 +5,7 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 
 try:
-    link = "http://suninjuly.github.io/file_input.html"
+    link = "https://suninjuly.github.io/file_input.html"
     browser = webdriver.Chrome()
     browser.get(link)
     name = browser.find_element(By.NAME, 'firstname')

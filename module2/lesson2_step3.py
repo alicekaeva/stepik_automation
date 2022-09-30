@@ -10,7 +10,7 @@ def calc(x, y):
 
 
 try:
-    link = 'https://suninjuly.github.io/selects1.html'
+    link = 'httpss://suninjuly.github.io/selects1.html'
     browser = webdriver.Chrome()
     browser.get(link)
     value1 = browser.find_element(By.ID, 'num1')

@@ -13,7 +13,7 @@ def calc(x):
 
 
 try:
-    link = 'http://suninjuly.github.io/explicit_wait2.html'
+    link = 'https://suninjuly.github.io/explicit_wait2.html'
     browser = webdriver.Chrome()
     browser.get(link)
     txt = WebDriverWait(browser, 12).until(

@@ -10,7 +10,7 @@ def calc(x):
 
 
 try:
-    link = "http://SunInJuly.github.io/execute_script.html"
+    link = "https://SunInJuly.github.io/execute_script.html"
     browser = webdriver.Chrome()
     browser.get(link)
     x_element = browser.find_element(By.CSS_SELECTOR, "#input_value")
